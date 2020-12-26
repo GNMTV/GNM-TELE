@@ -1,1 +1,19 @@
 # GNM-TELE
+#EXTINF:-1 tvg-logo="https://www.televisiongratishd.com/wp-content/uploads/tvonlinehd.jpg",FX channel
+https://live.televisiongratishd.com/tvplus2021/70_.m3u8?token=3EnqolUTzM-R7RLZOzsgwA&expires=1609031317&ip=179.6.213.245
+#EXTINF:-1 tvg-logo="https://www.televisiongratishd.com/wp-content/uploads/televisiongratishd.jpg",PARAMOUNT channel
+https://live.televisiongratishd.com/tvplus2021/83_.m3u8?token=v8KmqTlBPJ8-8B8f2iT8ag&expires=1609032222&ip=179.6.213.245
+#EXTINF:-1 tvg-logo="https://www.televisiongratishd.com/wp-content/uploads/televisiongratishd.jpg",TBS Channel
+https://live.televisiongratishd.com/tvplus2021/105_.m3u8?token=VZopQMu9k5Uw7xrYch1drA&expires=1609032509&ip=179.6.213.245
+#EXTINF:-1 tvg-logo="https://www.verlatele.net/wp-content/uploads/2020/06/canal-studio-universal-latino.jpg",STUDIO UNIVERSAL
+https://espare.tk/live/1041.m3u8?token=Tas23v1eoi8E4ChIVx8k0A&expires=1609032802
+#EXTINF:-1 tvg-logo="https://www.televisiongratishd.com/wp-content/uploads/televisiongratishd.jpg",SYFY Channel
+https://live.televisiongratishd.com/tvplus2021/58_.m3u8?token=xkDEN23fEWF8raI8bgP9Uw&expires=1609033215&ip=179.6.213.245
+#EXTINF:-1 tvg-logo="https://www.televisiongratishd.com/wp-content/uploads/televisiongratishd.jpg",SPACE Channel
+https://live.televisiongratishd.com/tvplus2021/39_.m3u8?token=AYnplg7YCneLaYa7cAsDCQ&expires=1609035511&ip=179.6.213.245
+#EXTINF:-1 tvg-logo="https://www.televisiongratishd.com/wp-content/uploads/televisiongratishd.jpg",HBO
+https://live.televisiongratishd.com/tvplus2021/31_.m3u8?token=2c5yl-eJAzIvr223ARNTuQ&expires=1609035679&ip=179.6.213.245
+#EXTINF:-1 tvg-logo="https://www.televisiongratishd.com/wp-content/uploads/televisiongratishd.jpg",UNIVERSAL Channel
+https://live.televisiongratishd.com/tvplus2021/79_.m3u8?token=3156jGSQYnupkNWE1Sa4-A&expires=1609035921&ip=179.6.213.245
+#EXTINF:-1 GOLPERU
+https://live.televisiongratishd.com/tvplus2021/6_.m3u8
